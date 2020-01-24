@@ -1,8 +1,8 @@
 module.exports = {
   getThemes () {
     return {
-      'plugin-light-mode': {
-        cssPath: 'styles/light.css',
+      'plugin-captivating-theme': {
+        cssPath: 'styles/cptheme.css',
         darkMode: false
       }
     }
