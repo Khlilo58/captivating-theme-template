@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@khlilo58/captivating-theme-template",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Plugin for Ark Wallet",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Khlilo58",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Captivating Theme",
+    "logo": "https://raw.githubusercontent.com/Khlilo58/captivating-theme-template/master/Ark%20logo%20custom.png",
     "categories": [
       "theme"
     ],
@@ -24,14 +24,14 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Khalil Jelassi"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/Khlilo58/captivating-theme-template/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/Khlilo58/captivating-theme-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/Khlilo58/captivating-theme-template.git"
   }
 }
